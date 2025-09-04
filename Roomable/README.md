@@ -16,7 +16,3 @@ Roomable is a desktop application that allows users to instantly check which cla
 - pandas
 - tkinter
 - Excel schedule file (`class_schedule.xlsx`)
-
-## Usage
-```bash
-python main.py
